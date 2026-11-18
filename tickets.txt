@@ -1,0 +1,6 @@
+student=Piotr
+T201; network; Wi-Fi keeps dropping
+T202; software; Cannot install updates
+T203; account; Password reset needed
+T204; printer; Printer jammed
+T205; other
